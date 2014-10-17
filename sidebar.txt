@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gsw:home|Door43 (gsw)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gsw|d43-gsw repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gsw/archive/master.zip|d43-gsw.zip]]
+
+**Recent Changes**
+{{changes>ns = gsw}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gsw|Ethnologue data]]
+
